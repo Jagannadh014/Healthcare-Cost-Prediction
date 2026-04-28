@@ -1,0 +1,39 @@
+{
+    "id": "fractured-leg",
+    "disease": "Fractured Leg",
+    "version": "v1.1",
+    "lastReviewedAt": "2026-02-06",
+    "sources": [
+        "AAOS"
+    ],
+    "sections": [
+        {
+            "type": "Monitoring",
+            "steps": [
+                "Monitor for circulation issues in the toes (color, temperature).",
+                "Check for skin irritation around the cast or brace."
+            ]
+        },
+        {
+            "type": "Medical Consultation",
+            "steps": [
+                "Use crutches or mobility aids exactly as prescribed.",
+                "Attend physical therapy sessions to restore range of motion."
+            ]
+        },
+        {
+            "type": "Lifestyle",
+            "steps": [
+                "Elevate the leg to reduce swelling.",
+                "Ensure a safe home environment to prevent falls."
+            ]
+        },
+        {
+            "type": "Escalation Awareness",
+            "steps": [
+                "Immediate attention required for severe pain unrelieved by medication or loss of sensation."
+            ]
+        }
+    ],
+    "reviewNotes": "Standardized schema."
+}

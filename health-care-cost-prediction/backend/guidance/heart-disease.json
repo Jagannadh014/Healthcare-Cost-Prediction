@@ -1,0 +1,41 @@
+{
+    "id": "heart-disease",
+    "disease": "Heart Disease",
+    "version": "v1.1",
+    "lastReviewedAt": "2026-02-06",
+    "sources": [
+        "AHA",
+        "Mayo Clinic"
+    ],
+    "sections": [
+        {
+            "type": "Monitoring",
+            "steps": [
+                "Monitor blood pressure and heart rate regularly as advised by your healthcare provider.",
+                "Keep a log of any symptoms such as palpitations, dizziness, or fatigue."
+            ]
+        },
+        {
+            "type": "Medical Consultation",
+            "steps": [
+                "Adhere to the medication regimen prescribed by your cardiologist.",
+                "Schedule regular follow-up appointments to assess heart function."
+            ]
+        },
+        {
+            "type": "Lifestyle",
+            "steps": [
+                "Adopt a heart-healthy dietary pattern low in saturated fats and sodium.",
+                "Engage in moderate-intensity aerobic exercise, such as walking, if cleared by your doctor.",
+                "Avoid smoking and limit alcohol consumption to support cardiovascular health."
+            ]
+        },
+        {
+            "type": "Escalation Awareness",
+            "steps": [
+                "Be aware that symptoms such as severe chest pain, radiating pain to the arm or jaw, or sudden shortness of breath require immediate emergency evaluation."
+            ]
+        }
+    ],
+    "reviewNotes": "Standardized structure. Removed specific medication names. Clarified emergency warning."
+}

@@ -1,0 +1,40 @@
+{
+    "id": "prostate-cancer",
+    "disease": "Prostate Cancer",
+    "version": "v1.1",
+    "lastReviewedAt": "2026-02-06",
+    "sources": [
+        "ACS",
+        "Prostate Cancer Foundation"
+    ],
+    "sections": [
+        {
+            "type": "Monitoring",
+            "steps": [
+                "Monitor PSA levels regularly as scheduled.",
+                "Report any urinary changes or bone pain."
+            ]
+        },
+        {
+            "type": "Medical Consultation",
+            "steps": [
+                "Discuss active surveillance vs. treatment options with your urologist.",
+                "Attend radiation or hormonal therapy sessions as planned."
+            ]
+        },
+        {
+            "type": "Lifestyle",
+            "steps": [
+                "Maintain a healthy weight and exercise regularly.",
+                "Eat a diet rich in fruits and vegetables."
+            ]
+        },
+        {
+            "type": "Escalation Awareness",
+            "steps": [
+                "Report sudden back pain or paralysis, which could indicate spinal cord compression."
+            ]
+        }
+    ],
+    "reviewNotes": "Standardized schema."
+}

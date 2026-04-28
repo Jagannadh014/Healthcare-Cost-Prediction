@@ -1,0 +1,39 @@
+{
+    "id": "osteoarthritis",
+    "disease": "Osteoarthritis",
+    "version": "v1.1",
+    "lastReviewedAt": "2026-02-06",
+    "sources": [
+        "Arthritis Foundation"
+    ],
+    "sections": [
+        {
+            "type": "Monitoring",
+            "steps": [
+                "Monitor joint pain and stiffness levels.",
+                "Track the effectiveness of pain relief methods."
+            ]
+        },
+        {
+            "type": "Medical Consultation",
+            "steps": [
+                "Discuss injection therapies or physical therapy with your specialist.",
+                "Review long-term medication safety (e.g., NSAIDs)."
+            ]
+        },
+        {
+            "type": "Lifestyle",
+            "steps": [
+                "Engage in low-impact exercises like swimming or cycling.",
+                "Maintain a healthy weight to reduce stress on joints."
+            ]
+        },
+        {
+            "type": "Escalation Awareness",
+            "steps": [
+                "Consult a doctor if joint pain causes falls or severely limits daily function."
+            ]
+        }
+    ],
+    "reviewNotes": "Standardized schema."
+}

@@ -1,0 +1,41 @@
+{
+    "id": "heart-attack",
+    "disease": "Heart Attack",
+    "version": "v1.1",
+    "lastReviewedAt": "2026-02-06",
+    "sources": [
+        "AHA",
+        "ACC"
+    ],
+    "sections": [
+        {
+            "type": "Monitoring",
+            "steps": [
+                "Monitor blood pressure and pulse daily.",
+                "Watch for signs of fluid retention (weight gain, swelling)."
+            ]
+        },
+        {
+            "type": "Medical Consultation",
+            "steps": [
+                "Participate in cardiac rehabilitation programs.",
+                "Strictly adhere to prescribed antiplatelet and cholesterol medications."
+            ]
+        },
+        {
+            "type": "Lifestyle",
+            "steps": [
+                "Adopt a heart-healthy diet rich in fruits, vegetables, and whole grains.",
+                "Manage stress through relaxation techniques.",
+                "Quit smoking."
+            ]
+        },
+        {
+            "type": "Escalation Awareness",
+            "steps": [
+                "Call emergency services immediately for recurring chest pain or extreme shortness of breath."
+            ]
+        }
+    ],
+    "reviewNotes": "Standardized schema."
+}

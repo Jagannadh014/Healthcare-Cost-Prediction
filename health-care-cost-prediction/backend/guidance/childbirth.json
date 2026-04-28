@@ -1,0 +1,39 @@
+{
+    "id": "childbirth",
+    "disease": "Childbirth (Postpartum)",
+    "version": "v1.1",
+    "lastReviewedAt": "2026-02-06",
+    "sources": [
+        "ACOG"
+    ],
+    "sections": [
+        {
+            "type": "Monitoring",
+            "steps": [
+                "Monitor for postpartum bleeding (lochia).",
+                "Watch for signs of postpartum depression or excessive anxiety."
+            ]
+        },
+        {
+            "type": "Medical Consultation",
+            "steps": [
+                "Attend standard postpartum checkups.",
+                "Consult a pediatrician for the newborn's schedule."
+            ]
+        },
+        {
+            "type": "Lifestyle",
+            "steps": [
+                "Prioritize rest and sleep when the baby sleeps.",
+                "Eat a nutritious diet to support recovery and breastfeeding if applicable."
+            ]
+        },
+        {
+            "type": "Escalation Awareness",
+            "steps": [
+                "Seek immediate care for heavy bleeding, severe headache, or vision changes (signs of preeclampsia)."
+            ]
+        }
+    ],
+    "reviewNotes": "Standardized schema."
+}

@@ -1,0 +1,42 @@
+{
+    "id": "diabetes",
+    "disease": "Diabetes",
+    "version": "v1.1",
+    "lastReviewedAt": "2026-02-06",
+    "sources": [
+        "ADA",
+        "CDC"
+    ],
+    "sections": [
+        {
+            "type": "Monitoring",
+            "steps": [
+                "Monitor blood glucose levels regularly as directed by your healthcare team.",
+                "Inspect feet daily for any cuts, blisters, or swelling."
+            ]
+        },
+        {
+            "type": "Medical Consultation",
+            "steps": [
+                "Maintain regular visits with your endocrinologist and primary care provider.",
+                "Ensure annual eye exams and kidney function tests are performed."
+            ]
+        },
+        {
+            "type": "Lifestyle",
+            "steps": [
+                "Follow a balanced meal plan that manages carbohydrate intake to help control blood sugar.",
+                "Incorporate regular physical activity into your daily routine.",
+                "Choose water over sugary beverages."
+            ]
+        },
+        {
+            "type": "Escalation Awareness",
+            "steps": [
+                "Recognize signs of hyperglycemia (high blood sugar) or hypoglycemia (low blood sugar) and have an action plan.",
+                "Seek medical attention for non-healing wounds or sudden vision changes."
+            ]
+        }
+    ],
+    "reviewNotes": "Aligned with v1.1 schema. Neutral tone ensured. No specific insulin dosages mentioned."
+}

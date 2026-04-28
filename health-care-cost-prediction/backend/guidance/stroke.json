@@ -1,0 +1,40 @@
+{
+    "id": "stroke",
+    "disease": "Stroke",
+    "version": "v1.1",
+    "lastReviewedAt": "2026-02-06",
+    "sources": [
+        "ASA",
+        "Mayo Clinic"
+    ],
+    "sections": [
+        {
+            "type": "Monitoring",
+            "steps": [
+                "Monitor blood pressure daily as directed by your physician.",
+                "Watch for signs of secondary stroke."
+            ]
+        },
+        {
+            "type": "Medical Consultation",
+            "steps": [
+                "Adhere to antithrombotic therapy as prescribed.",
+                "Participate in physical and speech therapy rehabilitation programs."
+            ]
+        },
+        {
+            "type": "Lifestyle",
+            "steps": [
+                "Modify diet to reduce salt and saturated fat intake.",
+                "Quit smoking to significantly reduce recurrence risk."
+            ]
+        },
+        {
+            "type": "Escalation Awareness",
+            "steps": [
+                "Remember FAST: Face drooping, Arm weakness, Speech difficulty, Time to call emergency services."
+            ]
+        }
+    ],
+    "reviewNotes": "Standardized schema."
+}

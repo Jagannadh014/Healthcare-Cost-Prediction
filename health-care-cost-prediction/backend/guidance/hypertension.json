@@ -1,0 +1,39 @@
+{
+    "id": "hypertension",
+    "disease": "Hypertension",
+    "version": "v1.1",
+    "lastReviewedAt": "2026-02-06",
+    "sources": [
+        "CDC",
+        "Mayo Clinic"
+    ],
+    "sections": [
+        {
+            "type": "Monitoring",
+            "steps": [
+                "Monitor blood pressure regularly at home as directed by a healthcare provider."
+            ]
+        },
+        {
+            "type": "Medical Consultation",
+            "steps": [
+                "Follow the medication schedule prescribed by a healthcare provider and consult them before making any changes."
+            ]
+        },
+        {
+            "type": "Lifestyle",
+            "steps": [
+                "Adopt a heart-healthy dietary pattern that emphasizes reduced sodium intake.",
+                "Engage in regular physical activity, aiming for moderate exercise levels as advised by a healthcare provider.",
+                "Maintain adequate hydration throughout the day."
+            ]
+        },
+        {
+            "type": "Escalation Awareness",
+            "steps": [
+                "Be aware that symptoms such as chest pain, severe headaches, or shortness of breath may require urgent medical evaluation."
+            ]
+        }
+    ],
+    "reviewNotes": "Language refined for neutrality and clarity. Specific drug names removed. Imperative phrasing softened. No new medical steps introduced."
+}

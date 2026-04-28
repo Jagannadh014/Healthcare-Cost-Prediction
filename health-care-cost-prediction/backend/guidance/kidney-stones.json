@@ -1,0 +1,39 @@
+{
+    "id": "kidney-stones",
+    "disease": "Kidney Stones",
+    "version": "v1.1",
+    "lastReviewedAt": "2026-02-06",
+    "sources": [
+        "NKF"
+    ],
+    "sections": [
+        {
+            "type": "Monitoring",
+            "steps": [
+                "Monitor urine color and volume.",
+                "Strain urine if advised to catch passing stones for analysis."
+            ]
+        },
+        {
+            "type": "Medical Consultation",
+            "steps": [
+                "Follow pain management protocols prescribed by your doctor.",
+                "Discuss preventative medications if stones are recurrent."
+            ]
+        },
+        {
+            "type": "Lifestyle",
+            "steps": [
+                "Increase fluid intake significantly (mostly water).",
+                "Adjust diet based on stone type (e.g., limit sodium or oxalates)."
+            ]
+        },
+        {
+            "type": "Escalation Awareness",
+            "steps": [
+                "Seek care for uncontrollable pain, fever, or inability to urinate."
+            ]
+        }
+    ],
+    "reviewNotes": "Standardized schema."
+}

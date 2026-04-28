@@ -1,0 +1,41 @@
+{
+    "id": "respiratory-infection",
+    "disease": "Respiratory Infection",
+    "version": "v1.1",
+    "lastReviewedAt": "2026-02-06",
+    "sources": [
+        "CDC",
+        "Lung Association"
+    ],
+    "sections": [
+        {
+            "type": "Monitoring",
+            "steps": [
+                "Monitor body temperature and cough severity.",
+                "Track oxygen saturation if advised using a pulse oximeter."
+            ]
+        },
+        {
+            "type": "Medical Consultation",
+            "steps": [
+                "Complete the full course of prescribed antibiotics if bacterial.",
+                "Consult a doctor for persistent symptoms exceeding two weeks."
+            ]
+        },
+        {
+            "type": "Lifestyle",
+            "steps": [
+                "Stay hydrated and rest to support immune recovery.",
+                "Use a humidifier to ease congestion.",
+                "Practice good hand hygiene to prevent spread."
+            ]
+        },
+        {
+            "type": "Escalation Awareness",
+            "steps": [
+                "Seek care for high fever, chest pain, or significant difficulty breathing."
+            ]
+        }
+    ],
+    "reviewNotes": "Standardized schema."
+}

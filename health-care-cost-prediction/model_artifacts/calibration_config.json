@@ -1,0 +1,7 @@
+{
+  "high_risk_calibration_factor": 1.1126503747172525,
+  "high_risk_criteria": {
+    "bmi_threshold": 30,
+    "age_threshold": 40
+  }
+}

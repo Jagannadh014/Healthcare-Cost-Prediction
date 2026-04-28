@@ -1,0 +1,14 @@
+{
+    "id": "hypertension",
+    "disease": "Hypertension",
+    "version": "v1",
+    "lastReviewedAt": "2025-12-01",
+    "steps": [
+        "You must monitor your blood pressure daily.",
+        "Take your prescribed medication like Lisinopril every morning.",
+        "Stop eating salty foods immediately.",
+        "Exercise is good for you, try to run everyday.",
+        "Call 911 if your chest hurts.",
+        "Drink more water."
+    ]
+}

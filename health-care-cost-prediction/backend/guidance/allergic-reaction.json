@@ -1,0 +1,39 @@
+{
+    "id": "allergic-reaction",
+    "disease": "Allergic Reaction",
+    "version": "v1.1",
+    "lastReviewedAt": "2026-02-06",
+    "sources": [
+        "AAAAI"
+    ],
+    "sections": [
+        {
+            "type": "Monitoring",
+            "steps": [
+                "Identify and monitor for potential triggers.",
+                "Watch for skin rashes or hives."
+            ]
+        },
+        {
+            "type": "Medical Consultation",
+            "steps": [
+                "Consult with an allergist for specific testing.",
+                "Carry prescribed epinephrine auto-injectors if advised."
+            ]
+        },
+        {
+            "type": "Lifestyle",
+            "steps": [
+                "Avoid known allergens in diet or environment.",
+                "Wear medical alert identification if the allergy is severe."
+            ]
+        },
+        {
+            "type": "Escalation Awareness",
+            "steps": [
+                "Seek emergency care for difficulty breathing, throat swelling, or dizziness (anaphylaxis)."
+            ]
+        }
+    ],
+    "reviewNotes": "Standardized schema."
+}

@@ -1,0 +1,24 @@
+=== START DEBUG ===
+
+--- Scanning for nested .git ---
+
+--- Git Status Before Add ---
+On branch main
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   debug_git.py
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+
+--- Re-adding files ---
+
+--- Git Status After Add ---
+On branch main
+nothing to commit, working tree clean
+
+
+--- Tracked Files Count ---
+Total tracked files: 66
+=== END DEBUG ===

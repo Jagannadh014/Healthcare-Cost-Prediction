@@ -1,0 +1,40 @@
+{
+    "id": "cancer",
+    "disease": "Cancer",
+    "version": "v1.1",
+    "lastReviewedAt": "2026-02-06",
+    "sources": [
+        "NCI",
+        "ACS"
+    ],
+    "sections": [
+        {
+            "type": "Monitoring",
+            "steps": [
+                "Monitor for new or worsening symptoms and side effects of treatment.",
+                "Track energy levels and nutrition intake."
+            ]
+        },
+        {
+            "type": "Medical Consultation",
+            "steps": [
+                "Attend all scheduled chemotherapy, radiation, or oncology appointments.",
+                "Discuss palliative care options for symptom management."
+            ]
+        },
+        {
+            "type": "Lifestyle",
+            "steps": [
+                "Focus on a nutrient-dense diet to support immune function.",
+                "Rest as needed but maintain light activity if possible."
+            ]
+        },
+        {
+            "type": "Escalation Awareness",
+            "steps": [
+                "Report fever or signs of infection immediately if on chemotherapy."
+            ]
+        }
+    ],
+    "reviewNotes": "Standardized schema. Generalized for broad applicability."
+}

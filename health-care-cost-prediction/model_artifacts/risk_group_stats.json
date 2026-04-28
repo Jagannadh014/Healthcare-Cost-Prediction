@@ -1,0 +1,67 @@
+{
+  "non_smoker_normal_young": {
+    "rmse": 3517.6571130256802,
+    "count": 21,
+    "mean_residual": -653.9250286681414
+  },
+  "non_smoker_normal_middle": {
+    "rmse": 682.279853569735,
+    "count": 5,
+    "mean_residual": 219.73412730861892
+  },
+  "non_smoker_normal_senior": {
+    "rmse": 1389.0030188662515,
+    "count": 8,
+    "mean_residual": -608.6178406946858
+  },
+  "non_smoker_overweight_young": {
+    "rmse": 2682.4627720956773,
+    "count": 27,
+    "mean_residual": -1926.9746497103947
+  },
+  "non_smoker_overweight_middle": {
+    "rmse": 5119.8837110839695,
+    "count": 16,
+    "mean_residual": 1140.5579470596106
+  },
+  "non_smoker_overweight_senior": {
+    "rmse": 1897.0606904713313,
+    "count": 15,
+    "mean_residual": -1782.7752326500877
+  },
+  "non_smoker_obese_young": {
+    "rmse": 2007.6871073244433,
+    "count": 20,
+    "mean_residual": -1940.9806129797919
+  },
+  "non_smoker_obese_middle": {
+    "rmse": 4242.494598163164,
+    "count": 26,
+    "mean_residual": 43.65531795064422
+  },
+  "non_smoker_obese_senior": {
+    "rmse": 3504.5222907818925,
+    "count": 22,
+    "mean_residual": -910.9111011333393
+  },
+  "smoker_overweight_senior": {
+    "rmse": 878.5488732905405,
+    "count": 5,
+    "mean_residual": -296.8849550504965
+  },
+  "smoker_obese_young": {
+    "rmse": 2399.008606179909,
+    "count": 7,
+    "mean_residual": 1873.6326597481182
+  },
+  "smoker_obese_middle": {
+    "rmse": 1598.0103857501938,
+    "count": 8,
+    "mean_residual": -614.7341454973421
+  },
+  "smoker_obese_senior": {
+    "rmse": 2803.6264957545563,
+    "count": 6,
+    "mean_residual": 295.5958680191543
+  }
+}

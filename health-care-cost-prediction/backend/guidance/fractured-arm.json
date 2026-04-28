@@ -1,0 +1,39 @@
+{
+    "id": "fractured-arm",
+    "disease": "Fractured Arm",
+    "version": "v1.1",
+    "lastReviewedAt": "2026-02-06",
+    "sources": [
+        "AAOS"
+    ],
+    "sections": [
+        {
+            "type": "Monitoring",
+            "steps": [
+                "Check for swelling or changes in skin color around the cast/splint.",
+                "monitor pain levels and report worsening pain."
+            ]
+        },
+        {
+            "type": "Medical Consultation",
+            "steps": [
+                "Attend all follow-up X-ray appointments to track healing.",
+                "Follow orthopedic advice regarding cast care."
+            ]
+        },
+        {
+            "type": "Lifestyle",
+            "steps": [
+                "Keep the arm elevated to reduce swelling.",
+                "Avoid lifting heavy objects until cleared by a doctor."
+            ]
+        },
+        {
+            "type": "Escalation Awareness",
+            "steps": [
+                "Seek immediate care if you experience numbness, tingling, or inability to move fingers."
+            ]
+        }
+    ],
+    "reviewNotes": "Standardized schema."
+}

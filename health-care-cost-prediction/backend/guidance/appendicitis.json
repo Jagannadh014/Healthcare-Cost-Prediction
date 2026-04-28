@@ -1,0 +1,39 @@
+{
+    "id": "appendicitis",
+    "disease": "Appendicitis",
+    "version": "v1.1",
+    "lastReviewedAt": "2026-02-06",
+    "sources": [
+        "Mayo Clinic"
+    ],
+    "sections": [
+        {
+            "type": "Monitoring",
+            "steps": [
+                "Monitor surgical incision for redness or discharge post-surgery.",
+                "Watch for fever or recurring abdominal pain."
+            ]
+        },
+        {
+            "type": "Medical Consultation",
+            "steps": [
+                "Attend post-operative follow-up to ensure proper healing.",
+                "Follow surgeon's instructions on activity restrictions."
+            ]
+        },
+        {
+            "type": "Lifestyle",
+            "steps": [
+                "Start with a bland diet and gradually introduce solids as tolerated.",
+                "Avoid strenuous lifting for the recommended recovery period."
+            ]
+        },
+        {
+            "type": "Escalation Awareness",
+            "steps": [
+                "Seek care if you experience severe vomiting or increasing abdominal swelling."
+            ]
+        }
+    ],
+    "reviewNotes": "Standardized schema."
+}
